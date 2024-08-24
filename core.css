@@ -1,0 +1,143 @@
+.z{
+    position: absolute;
+    justify-content: center;
+}
+.y{
+    position: absolute;
+    bottom: 70px;
+    margin-left: 600px;
+    font-family: sans-serif;
+    font-size: 60px;
+}
+.zz img{
+    width: 150px;
+    border-radius: 50%;
+}
+.zz{
+    position: fixed;
+    top: 0;
+    background-color: azure;
+    width: 99%;
+    padding: 15px;
+}
+.a{
+    display: grid;
+    background-color: aliceblue;
+    grid-template-columns: auto auto auto auto auto;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    width: 900px;
+    margin-left: 240px;
+    margin-top: 250px;
+}
+.aa img{
+    width: 700px;
+    object-fit: contain;
+    background-color: antiquewhite;
+}
+.aa{
+    grid-column: 1/5;
+    grid-row: 1/3;
+}
+.cc{
+    margin-left: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.d{
+    margin-left: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.dd{
+    margin-left: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.e{
+    margin-left: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+.b{
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    align-content: center;
+    text-align: center;
+}
+.bb{
+    background-color: antiquewhite;
+    align-content: center;
+    text-align: center;
+}
+.c{
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.ee{
+    display: grid;
+    background-color: aliceblue;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    gap: 20px;  
+    width: 900px;
+    margin-left: 240px;
+}
+.h{
+    grid-column: 1/5;
+}
+.f img{
+    width: 60px;
+}
+.f{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+.ff img{
+    width: 50px;
+}
+.ff{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+.g img{
+    width: 25px;
+}
+.g{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+.gg img{
+    width: 24px;
+}
+.gg{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+.h img{
+    width: 900px;
+}
+.h{
+    margin-left: auto;
+    margin-right: auto;
+}
